@@ -6,7 +6,7 @@
     - yarn v1: [Selective dependency resolutions | Yarn](https://classic.yarnpkg.com/lang/en/docs/selective-version-resolutions/)
     - yarn v2+: [`yarn set resolution` | Yarn - Package Manager](https://yarnpkg.com/cli/set/resolution)
 - npm 8.3+: use `overrides` field
-  - Example: [npm-8](npm-8)
+  - Example: [npm-8](./npm-8)
   - Docs:
     - [overrides](https://github.com/npm/rfcs/blob/main/accepted/0036-overrides.md)
 - npm < 8.3: No official way
