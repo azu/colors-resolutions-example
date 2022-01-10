@@ -1,5 +1,7 @@
 # Fix `colors` version
 
+Refs: https://github.com/Marak/colors.js/issues/285
+
 - Yarn: use `resolutions` field
   - Example: [yarn](./yarn)
   - Docs:
