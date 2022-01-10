@@ -8,6 +8,7 @@
 - npm 8.3+: use `overrides` field
   - Example: [npm-8](./npm-8)
   - Docs:
+    - https://docs.npmjs.com/cli/v8/configuring-npm/package-json#overrides
     - [overrides](https://github.com/npm/rfcs/blob/main/accepted/0036-overrides.md)
 - npm < 8.3: No official way
   - Modify package-lock.json
