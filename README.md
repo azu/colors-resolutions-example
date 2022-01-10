@@ -8,7 +8,7 @@
 - npm 8.3+: use `overrides` field
   - Example: [npm-8](npm-8)
   - Docs:
-    -
+    - [overrides](https://github.com/npm/rfcs/blob/main/accepted/0036-overrides.md)
 - npm < 8.3: No official way
   - Modify package-lock.json
   - Use [npm-force-resolutions - npm](https://www.npmjs.com/package/npm-force-resolutions)
