@@ -1,0 +1,18 @@
+{
+  "name": "yarn",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "http-server"
+  },
+  "keywords": [],
+  "author": "azu",
+  "license": "MIT",
+  "dependencies": {
+    "http-server": "^14.0.0"
+  },
+  "resolutions": {
+    "colors": "1.4.0"
+  }
+}
